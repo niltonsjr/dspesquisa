@@ -1,5 +1,4 @@
 import React from 'react';
-import { getTokenSourceMapRange } from 'typescript';
 import './styles.css';
 
 type Props = {
