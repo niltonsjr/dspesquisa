@@ -16,6 +16,8 @@ Proyecto del evento **Semana DevSuperior**
 - React
 
 ---
-!(/preview.gif)
+<img src="./preview.gif">
 
-URL de la página final del proyecto: https://sds1-nilton.netlify.app
+---
+
+Enlace al resultado final del proyecto: https://sds1-nilton.netlify.app
